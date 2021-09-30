@@ -1,0 +1,16 @@
+body {
+	overflow-x: hidden;
+}
+#row-contact {
+	color: white;
+	background-color: #d2a9b0;
+}
+.contact-icon {
+	font-size: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+	#row-contact {
+		font-size: 0.8em;
+	}
+}
